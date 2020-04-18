@@ -3,7 +3,7 @@ student_management_system_in_django
 
 <h2>Database Design</h2>
 
-<img src="https://github.com/hackstarsj/student_management_system_in_django/raw/master/database.png" alt="Database Design">
+<img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/database.png" alt="Database Design">
 
 
 <h2>Add Course Page</h2>
