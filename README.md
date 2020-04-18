@@ -38,5 +38,5 @@ student_management_system_in_django
 <h2>Staff Take Attendance Page</h2>
 <img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/take_attendance.PNG"  alt="Take Attendance Page">
 
-<h2>Staff Take Attendance Page</h2>
+<h2>Session Year Manage</h2>
 <img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/session_year.PNG"  alt="Session Year Manage">
